@@ -62,8 +62,9 @@ li{
 	color:white;
 	
 }
-.sp{
-	text-decoration: underline;
+
+a{
+text-decoration: none;	
 }
 .bottom-details{
 	display:flex;
