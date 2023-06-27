@@ -2,7 +2,9 @@
 *{
 	margin:0px;
 	padding:0px;
+	font-family: "Poppins"
 }
+
 .logo_name{
 	
 }
@@ -58,6 +60,18 @@ li{
 .titlee{
 	font-size:25px;
 	color:white;
+	
+}
+.sp{
+	text-decoration: underline;
+}
+.bottom-details{
+	display:flex;
+	justify-content:space-between;
+
+	padding:15px 45px 15px 45px;
+	background-color:#656d76;
+	color:lightgray;
 }
 
 
